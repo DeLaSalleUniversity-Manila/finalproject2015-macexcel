@@ -5,7 +5,9 @@ Mac Excel Fallar </br>
 Janssen Co </br>
 Luis Lerit </br>
 
-Sample App Images
+Google Play Store Link: https://play.google.com/store/apps/details?id=macexcel.example.com.mypresidentialtap </br>
+
+Sample App Images 
 
 https://cloud.githubusercontent.com/assets/14873207/11659438/3c0e4dbc-9e03-11e5-8754-8e5be39799f9.PNG
 https://cloud.githubusercontent.com/assets/14873207/11659440/3c33e3a6-9e03-11e5-870a-7639c9eded71.PNG
